@@ -7,7 +7,7 @@ which sentences are relevant to their domain (represented as some FAQs they uplo
 In general, Call-Centers already own a question-answering software that searches their
 FAQs or Knowledge Base. However, those systems are slow and cannot afford to run on each
 and every utterance spoken by the customer or the employee. It is here that the
-Fantastic Filter comes in:
+C3 Filter comes in:
 it is a fast pre-filtering on the conversation that keeps only sentences that are likely
 to be relevant to the downstream question-answering system.
 
